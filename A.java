@@ -1,9 +1,9 @@
-public class Demo
+class Demo
 {
 	public static void main(String... args)
 		{
-			Sysytem.out.println("Hii");
-		Sysytem.out.println("Hii11");
+			System.out.println("Hii");
+		System.out.println("Hii11");
 		
 		}
 }
